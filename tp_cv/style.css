@@ -1,0 +1,164 @@
+
+body {
+      width: 190mm;
+      height: 280mm;
+}
+  
+*\ {
+    font-family: 'Calibri';
+}
+
+header {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgba(242,242,242,255);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    font-size: 2cm;
+}
+
+h2 {
+    margin-left: 10%;
+    text-decoration: underline;
+}
+h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+h4 {
+    margin: 0%;
+    font-style: inherit;
+}
+
+h5 {
+    margin: 0%;
+    font-style: italic;
+}
+
+#intro {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+
+}
+
+.corpus {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-bottom: 0%;
+}
+
+#pied {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+#desc {
+    background-color: rgba(31,73,125,255);
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+#photo {
+    padding-left: 11%;
+    padding-right: 5%;
+    padding-top: 6%;
+    padding-bottom: 5%;
+}
+
+.exp_pro {
+    padding-top: 1%;
+}
+
+.min_bl {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.cercle {
+    width: 13%;
+    background: rgba(31,73,125,255);
+    height: 15%;
+    border-radius: 100%;
+    line-height: 63px;
+    color: white;
+    padding: 0%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    font-size: smaller;
+    text-align: center;
+    justify-content: center;
+}
+
+.min_cor {
+    padding-left: 1%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 0%;
+    font-size: small;
+}
+
+#cont {
+    background-color: rgba(31,73,125,255);
+    color: white;
+    font-size: small;
+    margin-top: 0%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#comp {
+    background-color: rgba(242,242,242,255);
+    color: rgba(31,73,125,255);
+    font-size: small;
+    padding-top: 1%;
+    padding-bottom: 1%
+}
+
+.min_f {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#hobb {
+    color: white;
+    background-color: rgba(31,73,125,255);
+    font-size: small;
+    padding-bottom: 0%;
+    margin-top: 0%;
+}
+
+p {
+    margin: 0%;
+}
+
+.bl {
+    color: rgba(31,73,125,255);
+}
+
+.whi {
+    color: white;
+}
+
+
+#fo {
+    padding-top: 2%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+ul {
+    list-style-type: none; 
+}

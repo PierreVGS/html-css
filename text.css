@@ -1,0 +1,27 @@
+p{
+background-color: gray;
+border:solid 5px green;
+
+}
+
+body {
+    background-color:purple
+  }
+#para1{
+height: 100px;
+padding: 20px;
+margin: 0px;
+}
+#para2{
+    width:50%;
+    padding:1.2em;
+    margin: 5px 20px 
+}
+#para3{
+    height: 200px;
+    width: 200px;
+    padding:-30px;
+    overflow: hidden;
+    margin: auto;
+}
+
